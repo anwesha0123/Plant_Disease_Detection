@@ -1,4 +1,4 @@
-# Plant_Disease_Detection_using_CNN
+# Plant_Disease_Detection
 
 This project uses a Convolutional Neural Network (CNN) to identify plant diseases from leaf images. The model was trained on a **manually created dataset** collected using the `bing-image-downloader`.
 
